@@ -9,13 +9,13 @@ package PruebaLP2G1;
  *
  * @author Eliacer Fernandez
  */
-public class NewMain {
+public class NewClass {
+    
+    
+    int n;
+    String name;
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public NewClass() {
     }
     
 }
